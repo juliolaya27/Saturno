@@ -28,3 +28,18 @@ C:\Users\jlaya\OneDrive\Documentos\Prueba visual\Saturno\obj\Debug\net6.0\refint
 C:\Users\jlaya\OneDrive\Documentos\Prueba visual\Saturno\obj\Debug\net6.0\Probandoantesdellorar.pdb
 C:\Users\jlaya\OneDrive\Documentos\Prueba visual\Saturno\obj\Debug\net6.0\Probandoantesdellorar.genruntimeconfig.cache
 C:\Users\jlaya\OneDrive\Documentos\Prueba visual\Saturno\obj\Debug\net6.0\ref\Probandoantesdellorar.dll
+C:\Users\jlaya\OneDrive\Documentos\Prueba Saturno 2\obj\Debug\net6.0\Probandoantesdellorar.csproj.AssemblyReference.cache
+C:\Users\jlaya\OneDrive\Documentos\Prueba Saturno 2\obj\Debug\net6.0\Probandoantesdellorar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jlaya\OneDrive\Documentos\Prueba Saturno 2\obj\Debug\net6.0\Probandoantesdellorar.AssemblyInfoInputs.cache
+C:\Users\jlaya\OneDrive\Documentos\Prueba Saturno 2\obj\Debug\net6.0\Probandoantesdellorar.AssemblyInfo.cs
+C:\Users\jlaya\OneDrive\Documentos\Prueba Saturno 2\obj\Debug\net6.0\Probandoantesdellorar.csproj.CoreCompileInputs.cache
+C:\Users\jlaya\OneDrive\Documentos\Prueba Saturno 2\obj\Debug\net6.0\Probandoantesdellorar.dll
+C:\Users\jlaya\OneDrive\Documentos\Prueba Saturno 2\obj\Debug\net6.0\refint\Probandoantesdellorar.dll
+C:\Users\jlaya\OneDrive\Documentos\Prueba Saturno 2\obj\Debug\net6.0\Probandoantesdellorar.pdb
+C:\Users\jlaya\OneDrive\Documentos\Prueba Saturno 2\bin\Debug\net6.0\Probandoantesdellorar.exe
+C:\Users\jlaya\OneDrive\Documentos\Prueba Saturno 2\bin\Debug\net6.0\Probandoantesdellorar.deps.json
+C:\Users\jlaya\OneDrive\Documentos\Prueba Saturno 2\bin\Debug\net6.0\Probandoantesdellorar.runtimeconfig.json
+C:\Users\jlaya\OneDrive\Documentos\Prueba Saturno 2\bin\Debug\net6.0\Probandoantesdellorar.dll
+C:\Users\jlaya\OneDrive\Documentos\Prueba Saturno 2\bin\Debug\net6.0\Probandoantesdellorar.pdb
+C:\Users\jlaya\OneDrive\Documentos\Prueba Saturno 2\obj\Debug\net6.0\Probandoantesdellorar.genruntimeconfig.cache
+C:\Users\jlaya\OneDrive\Documentos\Prueba Saturno 2\obj\Debug\net6.0\ref\Probandoantesdellorar.dll
