@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\jlaya\\OneDrive\\Documentos\\Prueba visual\\Saturno\\Probandoantesdellorar.csproj": {}
+    "C:\\Users\\jlaya\\OneDrive\\Documentos\\Prueba Saturno 2\\Probandoantesdellorar.csproj": {}
   },
   "projects": {
-    "C:\\Users\\jlaya\\OneDrive\\Documentos\\Prueba visual\\Saturno\\Probandoantesdellorar.csproj": {
+    "C:\\Users\\jlaya\\OneDrive\\Documentos\\Prueba Saturno 2\\Probandoantesdellorar.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jlaya\\OneDrive\\Documentos\\Prueba visual\\Saturno\\Probandoantesdellorar.csproj",
+        "projectUniqueName": "C:\\Users\\jlaya\\OneDrive\\Documentos\\Prueba Saturno 2\\Probandoantesdellorar.csproj",
         "projectName": "Probandoantesdellorar",
-        "projectPath": "C:\\Users\\jlaya\\OneDrive\\Documentos\\Prueba visual\\Saturno\\Probandoantesdellorar.csproj",
+        "projectPath": "C:\\Users\\jlaya\\OneDrive\\Documentos\\Prueba Saturno 2\\Probandoantesdellorar.csproj",
         "packagesPath": "C:\\Users\\jlaya\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jlaya\\OneDrive\\Documentos\\Prueba visual\\Saturno\\obj\\",
+        "outputPath": "C:\\Users\\jlaya\\OneDrive\\Documentos\\Prueba Saturno 2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\jlaya\\AppData\\Roaming\\NuGet\\NuGet.Config",
